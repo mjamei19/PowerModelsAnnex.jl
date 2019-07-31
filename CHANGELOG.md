@@ -4,6 +4,13 @@ PowerModelsAnnex.jl Change Log
 ### Staged
 - nothing
 
+### v0.2.3
+- Updates for PowerSystemsUnits
+- Fixes for Frontend (#53)
+
+### v0.2.2
+- Update to PowerModels v0.12
+
 ### v0.2.1
 - Update to PowerModels v0.11
 
